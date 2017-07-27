@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "http": "src/http"
+            "Http\\": "src/http"
         }
     }
 }
