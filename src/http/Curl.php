@@ -6,7 +6,7 @@
  * @Email: qinqiwei@hotmail.com
  * @Date: 2017-06-01
  */
-namespace http;
+namespace Qinqw\Bento\Http;
 /**
  * Curl类库封装
  *
